@@ -25,7 +25,7 @@ role: AI researcher
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: KAIST AI Graduated School
-    url: https://openai.com/
+    url: https://gsai.kaist.ac.kr/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,15 +47,16 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Large Language Model
+  - Natural Language Process
+  - 3D Computer Vision
+  - Self-Supervised Learning
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MS Artificial Intelligence
+    institution: KAIST GS AI
+    date_start: 2024-01-01
+    date_end: present
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
