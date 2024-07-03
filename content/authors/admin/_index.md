@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Seungyoo Lee
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Seungyoo Lee
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Seungyoo
+last_name: Lee
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🔍
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: AI researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: KAIST AI Graduated School
     url: https://openai.com/
 
 # Social network links
