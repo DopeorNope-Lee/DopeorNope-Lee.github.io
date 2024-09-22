@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: DopeorNope
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Seung Yoo
+last_name: Lee
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🔥
 
 # Is this the primary user of the site?
 superuser: true
@@ -24,27 +24,25 @@ role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: KAIST Kimjaechul Graduate School of AI
+    url: https://gsai.kaist.ac.kr/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:punctuate@kaist.ac.kr'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
+    url: https://www.linkedin.com/in/seungyoo-lee-62b098281/ 
+  - icon: brands/hugging-face
     url: https://scholar.google.com/
+  - icon: brands/github
+    url: https://github.com/DopeorNope-Lee 
+  - icon: brands/instagram
+    url: https://www.instagram.com/do_pe_or_no_pe/ 
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-3100-0332 
 
 interests:
   - Artificial Intelligence
@@ -52,60 +50,37 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MS Artificial Intelligence
+    institution: Kim Jaechul Graduate School of AI
+    date_start: 2024-09-02
+    date_end: ~
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Pursuing a master's degree under the supervision of Professor [Ju-ho Lee](https://juho-lee.github.io/) at the [SIML Lab](https://siml.kaist.ac.kr/). My research focuses on Large Language Models.
+  - area: BS Industial Engieneer
+    institution: Handong Global University
+    date_start: 2013-02-28
+    date_end: 2024-08-16
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Major GPA: 4.37/4.5
+      Total GPA: 4.25/4.5
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - position: LLM Researcher
+    company_name: Markr
+    company_url: 'http://markr.co.kr/'
+    company_logo: 'https://raw.githubusercontent.com/username/repositoryDopeorNope-Lee/DopeorNope-Lee.github.io/main/assets/media/markr.png'
+    date_start: 2022-12-15
+    date_end: 2024-08-15
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Worked as an LLM researcher at Markr, focusing on the development of a Korean-specific language model and conducting research on LLM fine-tuning and optimization.
+      The developed model achieved State-of-the-Art (SOTA) rankings on both the Open LLM Leaderboard and the Open Ko-LLM Leaderboard.
+  - position: Founding member
+    company_name: Markr AI
+    company_url: 'http://markr.co.kr/'
+    company_logo: 'https://raw.githubusercontent.com/username/repositoryDopeorNope-Lee/DopeorNope-Lee.github.io/main/assets/media/markr.png'
+    date_start: 2024-09-01
+    date_end:
+    summary: |
+      I transitioned from Markr to become a founding member of Markr AI, where I specialize in advanced applications of LLM technology.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -114,73 +89,65 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
+        percent: 90
+        icon: language-python #code-bracket
+      - name: R
         description: ''
         percent: 40
         icon: circle-stack
+      - name: C++
+        description: ''
+        percent: 40
+        icon: language-cpp
+      
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
       - name: Cats
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Driving
         description: ''
         percent: 80
-        icon: camera
+        icon: car
 
 languages:
-  - name: English
+  - name: Korean
     percent: 100
-  - name: Chinese
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
+  
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Month's LLM - NIA Director's Prize
+    url: https://www.aitimes.com/news/articleView.html?idxno=155801
+    date: '2023-12-11'
+    awarder: National Information Society Agency
+    icon: trophy
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      The LLM model I developed achieved the longest duration as the State-of-the-Art (SOTA) on the Open Ko-LLM Leaderboard, and I was awarded for this accomplishment.
+  - title: Healthcare AI Hackathon Competition Using Walking Data - Grand Prize
+    url: https://linc30.handong.edu/linc30/news/performance?print=true&page=1&idx=8&mode=view&page=1 
+    date: '2022-07-01'
+    awarder: LINC 3.0 Project Group
+    icon: medal
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      
+  - title: Problem-Solving Idea Contest Using Software - Best Priz
+    url: https://csee.handong.edu/2022/10/2022-sw-festival-3/ 
+    date: '2022-10-14'
+    awarder: Handong Gloabal University
+    icon: medal
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      I received the grand prize for optimization technology related to autonomous driving.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently pursuing a master's degree in artificial intelligence at KAIST Kim Jaechul AI Graduate School. My research focuses on Large Language Models (LLMs) under the supervision of Professor [Joo-Ho Lee](https://juho-lee.github.io/) at the [SIML lab](https://siml.kaist.ac.kr/). Previously, I earned a BS in Industrial Engineering from Handong Global University, where I conducted research in Medical Vision and Computer Vision under the supervision of Professor [Xiaopeng Yang](https://scholar.google.co.kr/citations?user=8w5uOesAAAAJ&hl=en) at the [AIMV Lab](https://aimv-handong.github.io/AIMV-Lab/).
