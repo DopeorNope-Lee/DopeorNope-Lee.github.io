@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Seung-Yoo Lee (DopeorNope)
+title: Seung-Yoo Lee
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: DopeorNope
 
 # Full name (for SEO)
 first_name: Seung-Yoo
