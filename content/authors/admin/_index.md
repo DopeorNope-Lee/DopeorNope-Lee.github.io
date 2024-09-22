@@ -35,7 +35,7 @@ profiles:
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/seungyoo-lee-62b098281/ 
-  - icon: brands/hugging-face
+  - icon: custom/huggingface
     url: https://huggingface.co/DopeorNope
   - icon: brands/github
     url: https://github.com/DopeorNope-Lee 
