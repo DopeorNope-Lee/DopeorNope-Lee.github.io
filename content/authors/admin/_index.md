@@ -1,17 +1,17 @@
 ---
 # Display name
-title: DopeorNope
+title: Seung-Yoo Lee (DopeorNope)
 
 # Name pronunciation (optional)
 name_pronunciation:
 
 # Full name (for SEO)
-first_name: Seung Yoo
+first_name: Seung-Yoo
 last_name: Lee
 
 # Status emoji
 status:
-  icon: 🔥
+  icon: 🚀
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: AI Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -36,7 +36,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/seungyoo-lee-62b098281/ 
   - icon: brands/hugging-face
-    url: https://scholar.google.com/
+    url: https://huggingface.co/DopeorNope
   - icon: brands/github
     url: https://github.com/DopeorNope-Lee 
   - icon: brands/instagram
@@ -46,8 +46,9 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Large Language Model
+  - Data-efficient learning
+  - Multi-Modal
 
 education:
   - area: MS Artificial Intelligence
