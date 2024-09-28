@@ -1,13 +1,15 @@
 ---
-title: "An example journal article"
+title: "Vehicle Distance Estimation from a Monocular Camera for Advanced Driver Assistance Systems"
 authors:
-- admin
-- Robert Ford
+- Seungyoo Lee
+- Kyujin Han
+- Seonyoung Park
+- Xiaopeng Yang
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2022-12-15"
+doi: "https://doi.org/10.3390/sym14122657"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"

@@ -91,15 +91,19 @@ skills:
       - name: Python
         description: ''
         percent: 90
-        icon: language-python #code-bracket
+        icon: devicon/python #code-bracket
+      - name: Pytorch
+        description: ''
+        percent: 90
+        icon: devicon/pytorch #code-bracket
       - name: R
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: devicon/r
       - name: C++
         description: ''
         percent: 40
-        icon: language-cpp
+        icon: devicon/cplusplus
       
   - name: Hobbies
     color: '#eeac02'
@@ -112,7 +116,7 @@ skills:
       - name: Driving
         description: ''
         percent: 80
-        icon: car
+        icon: hero/bug-ant
 
 languages:
   - name: Korean
@@ -151,4 +155,4 @@ awards:
 
 ## About Me
 
-I am currently pursuing a master's degree in artificial intelligence at KAIST Kim Jaechul AI Graduate School. My research focuses on Large Language Models (LLMs) under the supervision of Professor [Joo-Ho Lee](https://juho-lee.github.io/) at the [SIML lab](https://siml.kaist.ac.kr/). Previously, I earned a BS in Industrial Engineering from Handong Global University, where I conducted research in Medical Vision and Computer Vision under the supervision of Professor [Xiaopeng Yang](https://scholar.google.co.kr/citations?user=8w5uOesAAAAJ&hl=en) at the [AIMV Lab](https://aimv-handong.github.io/AIMV-Lab/).
+I am currently pursuing a master's degree in artificial intelligence at KAIST Kim Jaechul Graduate School of AI. My research focuses on Large Language Models (LLMs) under the supervision of Professor [Joo-Ho Lee](https://juho-lee.github.io/) at the [SIML lab](https://siml.kaist.ac.kr/). Previously, I earned a BS in Industrial Engineering from Handong Global University, where I conducted research in Medical Vision and Computer Vision under the supervision of Professor [Xiaopeng Yang](https://scholar.google.co.kr/citations?user=8w5uOesAAAAJ&hl=en) at the [AIMV Lab](https://aimv-handong.github.io/AIMV-Lab/).
