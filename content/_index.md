@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My main research topic is LLM, with the goal of developing domain-specific LLMs that are effective and efficient. 
         
-        Please reach out to collaborate 😃
+        Specifically, I aim to train LLMs robustly in data-scarce environments and optimize them effectively under constrained conditions. 
+        
+        Through this research, I aim to create meaningful impacts across various industries.
     design:
       columns: '1'
   - block: collection

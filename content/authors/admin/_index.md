@@ -1,6 +1,6 @@
 ---
 # Display name
-title: SeungYoo Lee
+title: Seungyoo Lee
 
 # Name pronunciation (optional)
 name_pronunciation: DopeorNope
