@@ -51,7 +51,7 @@ featured: true
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
-# url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_source: 'https://openreview.net/forum?id=0NAVeUm7sk'
 # url_video: 'https://youtube.com'
 
 # # Featured image
