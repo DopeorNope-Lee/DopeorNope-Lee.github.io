@@ -1,7 +1,7 @@
 ---
 title: "Vehicle Distance Estimation from a Monocular Camera for Advanced Driver Assistance Systems"
 authors:
-- Seungyoo Lee
+- **Seungyoo Lee**
 - Kyujin Han
 - Seonyoung Park
 - Xiaopeng Yang

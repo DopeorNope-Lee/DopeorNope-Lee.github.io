@@ -1,28 +1,17 @@
 ---
-title: "Variational Bayesian Pseudo-Coreset"
-authors:
-- Hyungi Lee
-- Seungyoo Lee
-- Juho Lee
-#author_notes:
-date: "2025-01-23"
-doi: "https://doi.org/10.3390/sym14122657"
-publication: "The Thirteenth International Conference on Learning Representations"
-publication_short: "ICLR"
-
-
+title: 'An example conference paper'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Seungyoo Lee
-#  - Robert Ford
+  - admin
+  - Robert Ford
 
 # Author notes (optional)
-# author_notes:
-#   - 'Equal contribution'
-#   - 'Equal contribution'
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 
 date: '2013-07-01T00:00:00Z'
 doi: ''
