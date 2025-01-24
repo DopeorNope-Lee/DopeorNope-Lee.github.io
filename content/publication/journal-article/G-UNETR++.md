@@ -57,7 +57,7 @@ url_code: 'https://www.mdpi.com/2076-3417/15/2/837'
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
 #   focal_point: ""
 #   preview_only: false
-featured: true
+# featured: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

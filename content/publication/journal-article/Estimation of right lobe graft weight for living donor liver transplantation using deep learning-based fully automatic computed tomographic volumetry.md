@@ -29,7 +29,7 @@ publication_types: ["article-journal"]
 publication: "*Scientific Reports, 13*(1)"
 publication_short: "Scientific Reports"
 
-featured: true
+# featured: true
 ---
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.

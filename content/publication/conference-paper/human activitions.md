@@ -1,33 +1,36 @@
 ---
-title: 'Variational Bayesian Pseudo-Coreset'
+title: 'Human Activity Recognition using Sensor Series Transformer with High-frequency Positional Encoding'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Hyungi Lee
+  - Kyujin Han
   - admin
-  - Juho Lee
+  - Joel Shin
+  - Seokbeom Jang 
+  - Hangyeol Seon
+  - Xiaopeng Yang
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2025-01-23T00:00:00Z'
+date: '2022-12-22T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-01-23T00:00:00Z'
-
+publishDate: '2022-12-22T00:00:00Z'
+# featured: true
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *The Thirteenth International Conference on Learning Representations*
-publication_short: In *ICLR*
+publication: In *Korean Institute of Information Scientists and Engineers*
+publication_short: In *KIISE*
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -38,7 +41,7 @@ publication_short: In *ICLR*
 #   - Large Language Models
 
 # Display this page in the Featured widget?
-featured: true
+
 
 # # Custom links (uncomment lines below)
 # # links:
@@ -51,7 +54,7 @@ featured: true
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
-url_source: 'https://openreview.net/forum?id=0NAVeUm7sk'
+url_source: 'https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11488629'
 # url_video: 'https://youtube.com'
 
 # # Featured image
