@@ -14,7 +14,7 @@ doi: 'https://doi.org/10.3390/sym14122657'
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-12-15T00:00:00Z'
 
-
+featured: true
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
