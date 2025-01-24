@@ -1,9 +1,9 @@
 ---
-title: Learn Python
-summary: Easily learn Python in 10 minutes!
-date: 2023-10-24
+title: GPU Optimization for LLM Fine-Tuning
+summary: Delivered lectures on efficient LLM training using GPU optimization
+date: 2024-08
 type: docs
-math: false
+math: true
 tags:
   - Python
 image:

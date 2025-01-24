@@ -1,11 +1,11 @@
 ---
-title: Learn JavaScript
-summary: Easily learn JavaScript in 10 minutes!
-date: 2023-10-24
+title: Quantization for LLM Fine-Tuning
+summary: Taught optimization techniques for large language models using quantization!
+date: 2024-11
 type: docs
-math: false
+math: True
 tags:
-  - JavaScript
+  - python
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---

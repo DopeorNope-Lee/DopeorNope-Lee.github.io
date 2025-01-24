@@ -43,7 +43,7 @@ publication_short: "Applied Scinence"
 # - name: ""
 #   url: ""
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://www.mdpi.com/2076-3417/15/2/837'
+# url_code: 'https://www.mdpi.com/2076-3417/15/2/837'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
