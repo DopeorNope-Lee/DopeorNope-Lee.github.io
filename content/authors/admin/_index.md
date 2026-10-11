@@ -56,8 +56,8 @@ education:
     date_start: 2024-09-02
     date_end: ~
     summary: |
-      Pursuing a master's degree under the supervision of Professor [Ju-ho Lee](https://juho-lee.github.io/) at the [SIML Lab](https://siml.kaist.ac.kr/). My research focuses on Large Language Models.
-  - area: BS Industial Engieneer
+      Pursuing a master's degree under the supervision of Professor [Juho Lee](https://juho-lee.github.io/) at the [SIML Lab](https://siml.kaist.ac.kr/). My research focuses on Large Language Models.
+  - area: BS Industrial Engineering
     institution: Handong Global University
     date_start: 2013-02-28
     date_end: 2024-08-16
@@ -68,7 +68,7 @@ work:
   - position: LLM Researcher
     company_name: Markr
     company_url: 'http://markr.co.kr/'
-    company_logo: 'https://raw.githubusercontent.com/username/repositoryDopeorNope-Lee/DopeorNope-Lee.github.io/main/assets/media/markr.png'
+    company_logo: markr.png
     date_start: 2022-12-15
     date_end: 2024-08-15
     summary: |
@@ -77,7 +77,7 @@ work:
   - position: Founding member
     company_name: Markr AI
     company_url: 'http://markr.co.kr/'
-    company_logo: 'https://raw.githubusercontent.com/username/repositoryDopeorNope-Lee/DopeorNope-Lee.github.io/main/assets/media/markr.png'
+    company_logo: markr.png
     date_start: 2024-09-01
     date_end:
     summary: |
@@ -144,10 +144,10 @@ awards:
     icon: medal
     summary: |
       
-  - title: Problem-Solving Idea Contest Using Software - Best Priz
+  - title: Problem-Solving Idea Contest Using Software - Best Prize
     url: https://csee.handong.edu/2022/10/2022-sw-festival-3/ 
     date: '2022-10-14'
-    awarder: Handong Gloabal University
+    awarder: Handong Global University
     icon: medal
     summary: |
       I received the grand prize for optimization technology related to autonomous driving.
@@ -155,4 +155,4 @@ awards:
 
 ## About Me
 
-I am currently pursuing a master's degree in artificial intelligence at KAIST Kim Jaechul Graduate School of AI. My research focuses on Large Language Models (LLMs) under the supervision of Professor [Joo-Ho Lee](https://juho-lee.github.io/) at the [SIML lab](https://siml.kaist.ac.kr/). Previously, I earned a BS in Industrial Engineering from Handong Global University, where I conducted research in Medical Vision and Computer Vision under the supervision of Professor [Xiaopeng Yang](https://scholar.google.co.kr/citations?user=8w5uOesAAAAJ&hl=en) at the [AIMV Lab](https://aimv-handong.github.io/AIMV-Lab/).
+I am currently pursuing a master's degree in artificial intelligence at KAIST Kim Jaechul Graduate School of AI. My research focuses on Large Language Models (LLMs) under the supervision of Professor [Juho Lee](https://juho-lee.github.io/) at the [SIML lab](https://siml.kaist.ac.kr/). Previously, I earned a BS in Industrial Engineering from Handong Global University, where I conducted research in Medical Vision and Computer Vision under the supervision of Professor [Xiaopeng Yang](https://scholar.google.co.kr/citations?user=8w5uOesAAAAJ&hl=en) at the [AIMV Lab](https://aimv-handong.github.io/AIMV-Lab/).
