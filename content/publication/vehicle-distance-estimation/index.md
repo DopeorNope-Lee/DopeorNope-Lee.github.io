@@ -3,22 +3,24 @@ title: 'Vehicle Distance Estimation from a Monocular Camera for Advanced Driver 
 authors:
   - admin
   - Kyujin Han
-  - Seonyoung Park
+  - Seonyeong Park
   - Xiaopeng Yang
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 date: '2022-12-15T00:00:00Z'
 publishDate: '2022-12-15T00:00:00Z'
+accepted: '2022-12-13'
 doi: '10.3390/sym14122657'
 
 publication_types: ['article-journal']
-publication: '*Symmetry, 14*(12)'
+publication: '*Symmetry, 14*(12), 2657'
 publication_short: 'Symmetry'
 
 abstract: ''
 summary: ''
-tags: []
+tags:
+  - International Journal
 
 featured: false
 

@@ -1,0 +1,6 @@
+{{/* Badge for publications with an `accepted` date in front matter. */}}
+{{ with .Params.accepted }}
+<span class="inline-block whitespace-nowrap rounded-full bg-primary-100 dark:bg-primary-900 text-primary-800 dark:text-primary-200 px-2 py-0.5 text-xs font-semibold" style="vertical-align: middle;">
+  Accepted · {{ (time .) | time.Format "Jan 2, 2006" }}
+</span>
+{{ end }}

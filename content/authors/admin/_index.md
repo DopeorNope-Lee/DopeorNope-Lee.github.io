@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: AI Researcher
+role: Ph.D. Student in AI
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: KAIST Kimjaechul Graduate School of AI
+  - name: KAIST Kim Jaechul Graduate School of AI
     url: https://gsai.kaist.ac.kr/
 
 # Social network links
@@ -34,54 +34,86 @@ profiles:
     url: 'mailto:punctuate@kaist.ac.kr'
     label: E-mail Me
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/seungyoo-lee-62b098281/ 
+    url: https://www.linkedin.com/in/seungyoo-lee-62b098281/
   - icon: custom/huggingface
     url: https://huggingface.co/DopeorNope
   - icon: brands/github
-    url: https://github.com/DopeorNope-Lee 
+    url: https://github.com/DopeorNope-Lee
   - icon: brands/instagram
-    url: https://www.instagram.com/do_pe_or_no_pe/ 
+    url: https://www.instagram.com/do_pe_or_no_pe/
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-3100-0332 
+    url: https://orcid.org/0000-0002-3100-0332
 
 interests:
-  - Artificial Intelligence
-  - Large Language Model
-  - Data-efficient learning
-  - Multi-Modal
+  - Large Language Models
+  - Synthetic Data Generation
+  - Multi-Modal Learning
 
 education:
-  - area: MS Artificial Intelligence
-    institution: Kim Jaechul Graduate School of AI
-    date_start: 2024-09-02
+  - area: Ph.D. in Artificial Intelligence
+    institution: KAIST Kim Jaechul Graduate School of AI
+    date_start: 2026-09-01
     date_end: ~
     summary: |
-      Pursuing a master's degree under the supervision of Professor [Juho Lee](https://juho-lee.github.io/) at the [SIML Lab](https://siml.kaist.ac.kr/). My research focuses on Large Language Models.
-  - area: BS Industrial Engineering
+      Research focus: Large Language Models. Advisor: Prof. [Juho Lee](https://juho-lee.github.io/), [SIML Lab](https://siml.kaist.ac.kr/).
+  - area: M.S. in Artificial Intelligence
+    institution: KAIST Kim Jaechul Graduate School of AI
+    date_start: 2024-09-02
+    date_end: 2026-08-31
+    summary: |
+      Research focus: Large Language Models. Advisor: Prof. [Juho Lee](https://juho-lee.github.io/), [SIML Lab](https://siml.kaist.ac.kr/).
+  - area: B.S. in ICT Convergence and Business
     institution: Handong Global University
     date_start: 2013-02-28
     date_end: 2024-08-16
     summary: |
-      Major GPA: 4.37/4.5
-      Total GPA: 4.25/4.5
+      Primary major: ICT Convergence, Secondary major: Business. GPA (Major) 4.37/4.5, GPA (Total) 4.24/4.5. Advisor: Prof. [Xiaopeng Yang](https://scholar.google.co.kr/citations?user=8w5uOesAAAAJ&hl=en).
+
 work:
-  - position: LLM Researcher
-    company_name: Markr
-    company_url: 'http://markr.co.kr/'
-    company_logo: markr.png
-    date_start: 2022-12-15
-    date_end: 2024-08-15
+  - position: Research Intern
+    company_name: Kakao
+    date_end: 2026-08-31
     summary: |
-      Worked as an LLM researcher at Markr, focusing on the development of a Korean-specific language model and conducting research on LLM fine-tuning and optimization.
-      The developed model achieved State-of-the-Art (SOTA) rankings on both the Open LLM Leaderboard and the Open Ko-LLM Leaderboard.
-  - position: Founding member
-    company_name: Markr AI
+      Research internship (2026 – Aug 2026).
+  - position: Partner Researcher
+    company_name: Markr.AI Research Team
     company_url: 'http://markr.co.kr/'
-    company_logo: markr.png
-    date_start: 2024-09-01
+    date_start: 2024-08-01
     date_end:
     summary: |
-      I transitioned from Markr to become a founding member of Markr AI, where I specialize in advanced applications of LLM technology.
+      - [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)
+      - Domain-specific LLMs in sparse domain data pools
+      - LLM fine-tuning engineering and quantization
+      - LLM guidance using Sequential Monte Carlo sampling
+      - Korean LLMs and synthetic data generation
+  - position: Researcher
+    company_name: Markr (with Media Group Human & Forest)
+    company_url: 'http://markr.co.kr/'
+    date_start: 2022-09-01
+    date_end: 2024-08-31
+    summary: |
+      **Robust & Korean LLM development**
+      - #1 on the Open LLM Leaderboard (Jan 14, 2024) with [DopeorNope/SOLARC-MOE-10.7Bx6](https://huggingface.co/DopeorNope/SOLARC-MOE-10.7Bx6)
+      - #1 on the Open Ko-LLM Leaderboard (Nov 11, 2023) with [HumanF-MarkrAI/COKAL-DPO-13b-v2](https://huggingface.co/Markr-AI/COKAL-DPO-13b-v2)
+      - LoRA SFT + DPO training; MinHash / MinHash-LSH near-dedup data cleansing; Mixture-of-Experts for robustness
+      - [K-G-OAT](https://github.com/Marker-Inc-Korea/K-G-OAT): parameter-efficient IA3 fine-tuning
+
+      **NeRF** — D-NeRF for dynamic scenes, GUI prototype for 3D novel view synthesis, human 3D pose estimation
+
+      **Medical & computer vision** — liver, Couinaud and tumor segmentation; autonomous driving; human pose estimation
+  - position: Student Researcher (Head)
+    company_name: AI Medical Vision Lab, Handong Global University
+    company_url: 'https://aimv-handong.github.io/AIMV-Lab/'
+    date_start: 2022-03-01
+    date_end: 2024-03-31
+    summary: |
+      Advisor: Prof. Xiaopeng Yang. Vehicle distance estimation with a monocular camera; deep-learning liver segmentation; visual driver fatigue detection.
+  - position: Research Assistant
+    company_name: Korea Real Estate Agency Project, Handong Global University
+    date_start: 2021-08-01
+    date_end: 2024-03-31
+    summary: |
+      Advisor: Prof. Jung Eui Hong. Machine-learning analysis of local housing markets and risk prediction / detection of fraudulent real-estate subscriptions.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -91,20 +123,24 @@ skills:
       - name: Python
         description: ''
         percent: 90
-        icon: devicon/python #code-bracket
-      - name: Pytorch
+        icon: devicon/python
+      - name: PyTorch
         description: ''
         percent: 90
-        icon: devicon/pytorch #code-bracket
-      - name: R
+        icon: devicon/pytorch
+      - name: TensorFlow
         description: ''
-        percent: 40
-        icon: devicon/r
+        percent: 60
+        icon: devicon/tensorflow
       - name: C++
         description: ''
         percent: 40
         icon: devicon/cplusplus
-      
+      - name: R
+        description: ''
+        percent: 40
+        icon: devicon/r
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -123,7 +159,6 @@ languages:
     percent: 100
   - name: English
     percent: 75
-  
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -138,14 +173,12 @@ awards:
     summary: |
       The LLM model I developed achieved the longest duration as the State-of-the-Art (SOTA) on the Open Ko-LLM Leaderboard, and I was awarded for this accomplishment.
   - title: Healthcare AI Hackathon Competition Using Walking Data - Grand Prize
-    url: https://linc30.handong.edu/linc30/news/performance?print=true&page=1&idx=8&mode=view&page=1 
+    url: https://linc30.handong.edu/linc30/news/performance?print=true&page=1&idx=8&mode=view&page=1
     date: '2022-07-01'
     awarder: LINC 3.0 Project Group
     icon: medal
-    summary: |
-      
   - title: Problem-Solving Idea Contest Using Software - Best Prize
-    url: https://csee.handong.edu/2022/10/2022-sw-festival-3/ 
+    url: https://csee.handong.edu/2022/10/2022-sw-festival-3/
     date: '2022-10-14'
     awarder: Handong Global University
     icon: medal
@@ -155,4 +188,6 @@ awards:
 
 ## About Me
 
-I am currently pursuing a master's degree in artificial intelligence at KAIST Kim Jaechul Graduate School of AI. My research focuses on Large Language Models (LLMs) under the supervision of Professor [Juho Lee](https://juho-lee.github.io/) at the [SIML lab](https://siml.kaist.ac.kr/). Previously, I earned a BS in Industrial Engineering from Handong Global University, where I conducted research in Medical Vision and Computer Vision under the supervision of Professor [Xiaopeng Yang](https://scholar.google.co.kr/citations?user=8w5uOesAAAAJ&hl=en) at the [AIMV Lab](https://aimv-handong.github.io/AIMV-Lab/).
+I am a Ph.D. student in Artificial Intelligence at KAIST Kim Jaechul Graduate School of AI, advised by Professor [Juho Lee](https://juho-lee.github.io/) at the [SIML Lab](https://siml.kaist.ac.kr/), where I also completed my M.S. My research focuses on Large Language Models — in particular, training LLMs robustly in data-scarce domains, synthetic data generation, and efficient optimization. I have published at ICLR, ICML, and NeurIPS.
+
+Previously, I earned a B.S. in ICT Convergence and Business from Handong Global University, where I conducted research in medical and computer vision under Professor [Xiaopeng Yang](https://scholar.google.co.kr/citations?user=8w5uOesAAAAJ&hl=en) at the [AIMV Lab](https://aimv-handong.github.io/AIMV-Lab/). At Markr, I developed Korean LLMs that ranked #1 on both the Open LLM Leaderboard and the Open Ko-LLM Leaderboard.

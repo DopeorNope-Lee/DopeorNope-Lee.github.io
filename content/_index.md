@@ -37,13 +37,18 @@ sections:
       subtitle: ''
       # Add new items at the top: `- **YYYY.MM** — what happened`
       text: |-
-        - **2025.01** — *Variational Bayesian Pseudo-Coreset* accepted at **ICLR 2025** 🎉
-        - **2025.01** — *G-UNETR++* published in **Applied Sciences**
-        - **2024.11** — Lectured on *Quantization for LLM Fine-Tuning*
-        - **2024.09** — Started M.S. in AI at **KAIST Kim Jaechul Graduate School of AI** ([SIML Lab](https://siml.kaist.ac.kr/))
-        - **2024.09** — Joined **Markr AI** as a founding member
+        - **2026.10** — Launched *Hybrid Agentic Coding with Claude Code & Open-Weight LLMs* at FastCampus
+        - **2026.09** — Two papers accepted at **NeurIPS 2026**: *SAVE* (first author) and *Mixture-Trained Merging* 🎉
+        - **2026.09** — Started Ph.D. in AI at **KAIST Kim Jaechul Graduate School of AI** ([SIML Lab](https://siml.kaist.ac.kr/))
+        - **2026.08** — Received M.S. in AI from **KAIST** and completed a research internship at **Kakao**
+        - **2026.04** — Three papers accepted at **ICML 2026**: *OCNR* (first author), *From Drift to Coherence*, and *Confidence is Not Universal* 🎉
+        - **2026.01** — Liver tumor segmentation paper accepted in **Diagnostics**
+        - **2025.12** — Couinaud segmentation paper accepted in **Current Problems in Surgery**
+        - **2025.09** — *PANGEA* (first author) accepted at **NeurIPS 2025** 🎉
+        - **2025.01** — *Variational Bayesian Pseudo-Coreset* accepted at **ICLR 2025**; *G-UNETR++* accepted in **Applied Sciences**
+        - **2024.09** — Started M.S. in AI at **KAIST** and joined the **Markr.AI** research team as a partner researcher
+        - **2024.01** — *SOLARC-MOE-10.7Bx6* ranked **#1 on the Open LLM Leaderboard**
         - **2023.12** — Received the **NIA Director's Prize** (Month's LLM) for the longest-running SOTA on the Open Ko-LLM Leaderboard
-        - **2023.10** — Paper published in **Scientific Reports**
     design:
       columns: '1'
   - block: markdown

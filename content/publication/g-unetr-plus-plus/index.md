@@ -13,17 +13,19 @@ authors:
   - Heecheon You
 date: '2025-01-16T00:00:00Z'
 publishDate: '2025-01-16T00:00:00Z'
+accepted: '2025-01-13'
 doi: '10.3390/app15020837'
 
 publication_types: ['article-journal']
-publication: '*Applied Sciences, 15*(2)'
+publication: '*Applied Sciences, 15*(2), 837'
 publication_short: 'Applied Sciences'
 
 abstract: ''
 summary: ''
-tags: []
+tags:
+  - International Journal
 
-featured: true
+featured: false
 
 url_pdf: ''
 url_code: ''

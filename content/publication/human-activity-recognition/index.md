@@ -7,17 +7,21 @@ authors:
   - Seokbeom Jang
   - Hangyeol Seon
   - Xiaopeng Yang
-date: '2022-12-22T00:00:00Z'
-publishDate: '2022-12-22T00:00:00Z'
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+date: '2023-06-17T00:00:00Z'
+publishDate: '2023-06-17T00:00:00Z'
 doi: ''
 
 publication_types: ['paper-conference']
-publication: In *Korean Institute of Information Scientists and Engineers*
-publication_short: In *KIISE*
+publication: 'In *Korea Computer Congress 2023 (KCC 2023)*, KIISE, pp. 2052–2054'
+publication_short: 'In *KCC 2023*'
 
 abstract: ''
 summary: ''
-tags: []
+tags:
+  - Domestic
 
 featured: false
 
