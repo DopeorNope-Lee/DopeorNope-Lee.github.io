@@ -75,12 +75,9 @@ work:
     date_start: 2022-09-01
     date_end: 2026-05-31
     summary: |
-      - #1 on the Open LLM Leaderboard (Jan 14, 2024) with [DopeorNope/SOLARC-MOE-10.7Bx6](https://huggingface.co/DopeorNope/SOLARC-MOE-10.7Bx6)
-      - #1 on the Open Ko-LLM Leaderboard (Nov 11, 2023) with [COKAL-DPO-13b-v2](https://huggingface.co/Markr-AI/COKAL-DPO-13b-v2) — NIA Director's Prize (Month's LLM)
-      - Korean and domain-specific LLMs: LoRA SFT + DPO, MinHash-LSH data deduplication, Mixture-of-Experts, synthetic data generation
-      - LLM fine-tuning engineering, quantization, and guidance with Sequential Monte Carlo sampling
+      - Domain-specific and Korean LLMs: SFT + DPO training, data deduplication, Mixture-of-Experts, synthetic data generation
+      - LLM quantization and guidance with Sequential Monte Carlo sampling
       - Open source: [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG), [K-G-OAT](https://github.com/Marker-Inc-Korea/K-G-OAT) (IA3 fine-tuning)
-      - Earlier work: dynamic NeRF and 3D novel view synthesis; liver, Couinaud and tumor segmentation
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -137,8 +134,6 @@ awards:
     date: '2023-12-11'
     awarder: National Information Society Agency
     icon: trophy
-    summary: |
-      The LLM model I developed achieved the longest duration as the State-of-the-Art (SOTA) on the Open Ko-LLM Leaderboard, and I was awarded for this accomplishment.
   - title: Healthcare AI Hackathon Competition Using Walking Data - Grand Prize
     url: https://linc30.handong.edu/linc30/news/performance?print=true&page=1&idx=8&mode=view&page=1
     date: '2022-07-01'

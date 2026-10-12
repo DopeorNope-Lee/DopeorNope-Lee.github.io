@@ -31,6 +31,37 @@ sections:
           position: center
           parallax: false
   - block: markdown
+    id: research
+    content:
+      title: '🔬 Research'
+      subtitle: ''
+      text: |-
+        I study how to make **Large Language Models** learn effectively when data and compute are limited, and behave reliably once deployed.
+
+        **Data-efficient adaptation of LLMs** — adapting LLMs to new domains and vocabularies with scarce data, and selecting the data that matters.\
+        [PANGEA](publication/pangea/) (NeurIPS 2025) · [SAVE](publication/save/) (NeurIPS 2026) · [Variational Bayesian Pseudo-Coreset](publication/vbpc/) (ICLR 2025)
+
+        **Self-improvement & synthetic data** — training LLMs on data they generate themselves without collapsing.\
+        [OCNR](publication/ocnr/) (ICML 2026)
+
+        **Reliable LLMs** — calibration, belief consistency, and combining multiple objectives into a single model.\
+        [Confidence is Not Universal](publication/confidence-not-universal/) (ICML 2026) · [From Drift to Coherence](publication/drift-to-coherence/) (ICML 2026) · [Mixture-Trained Merging](publication/mixture-trained-merging/) (NeurIPS 2026)
+    design:
+      columns: '1'
+  - block: collection
+    id: papers
+    content:
+      title: Selected Publications
+      archive:
+        enable: true
+        link: publication/
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      view: citation
+  - block: markdown
     id: news
     content:
       title: '📰 News'
@@ -48,30 +79,4 @@ sections:
         - **2022.12** — Vehicle distance estimation paper accepted in **Symmetry**
     design:
       columns: '1'
-  - block: markdown
-    id: research
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        My main research topic is LLM, with the goal of developing domain-specific LLMs that are effective and efficient.
-
-        Specifically, I aim to train LLMs robustly in data-scarce environments and optimize them effectively under constrained conditions.
-
-        Through this research, I aim to create meaningful impacts across various industries.
-    design:
-      columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Selected Publications
-      archive:
-        enable: true
-        link: publication/
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: citation
 ---
