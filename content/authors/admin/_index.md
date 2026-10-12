@@ -148,12 +148,8 @@ awards:
       I received the grand prize for optimization technology related to autonomous driving.
 ---
 
-Hi! I am a Ph.D. student at the [KAIST Kim Jaechul Graduate School of AI](https://gsai.kaist.ac.kr/), advised by Prof. [Juho Lee](https://juho-lee.github.io/) at the [SIML Lab](https://siml.kaist.ac.kr/). Previously, I was a research intern at **Kakao** and a partner researcher at **Markr.AI**, where I built domain-specific Korean LLMs.
+Hi! I am a Ph.D. student at [KAIST AI](https://gsai.kaist.ac.kr/), advised by Prof. [Juho Lee](https://juho-lee.github.io/) at the [SIML Lab](https://siml.kaist.ac.kr/). I study **large language models**, with a particular interest in how they can learn from limited data and behave more reliably.
 
-My research centers on **Large Language Models** — how they can *learn efficiently from limited data* and *behave reliably once deployed*. Recent topics include:
-
-- **Data-efficient adaptation** — domain and vocabulary adaptation under data scarcity ([PANGEA](publication/pangea/), [SAVE](publication/save/), [VBPC](publication/vbpc/))
-- **Self-improvement & synthetic data** — training on self-generated data without collapse ([OCNR](publication/ocnr/))
-- **Reliable LLMs** — calibration, belief consistency, and model merging ([Confidence is Not Universal](publication/confidence-not-universal/), [Drift to Coherence](publication/drift-to-coherence/), [MTM](publication/mixture-trained-merging/))
+Previously, I was a research intern at Kakao and a partner researcher at Markr.AI, working on Korean and domain-specific LLMs. Before that, I worked with Prof. Xiaopeng Yang (POSTECH) on deep learning for medical image analysis.
 
 **Contact:** punctuate [at] kaist [dot] ac [dot] kr
