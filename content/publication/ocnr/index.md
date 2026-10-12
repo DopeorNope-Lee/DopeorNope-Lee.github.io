@@ -5,6 +5,11 @@ authors:
   - Giung Nam
   - Hyungi Lee
   - Juho Lee
+author_notes:
+  - ''
+  - ''
+  - 'Co-corresponding author'
+  - 'Co-corresponding author'
 date: '2026-07-06T00:00:00Z'
 publishDate: '2026-07-06T00:00:00Z'
 accepted: '2026-04-30'

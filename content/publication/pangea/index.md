@@ -6,6 +6,12 @@ authors:
   - Moonseok Choi
   - Hyungi Lee
   - Juho Lee
+author_notes:
+  - ''
+  - ''
+  - ''
+  - 'Co-corresponding author'
+  - 'Co-corresponding author'
 date: '2025-12-02T00:00:00Z'
 publishDate: '2025-12-02T00:00:00Z'
 accepted: '2025-09-18'

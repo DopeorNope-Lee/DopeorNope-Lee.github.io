@@ -1,0 +1,10 @@
+{{/* Marker for an author from the page's `author_notes`:
+     "Equal contribution" -> *, "Corresponding author" -> †. Usage: (dict "page" . "index" $i) */}}
+{{- with .page.Params.author_notes -}}
+  {{- with index . $.index -}}
+    {{- $mark := "" -}}
+    {{- if findRE "(?i)equal" . }}{{ $mark = "*" }}{{ end -}}
+    {{- if findRE "(?i)correspond" . }}{{ $mark = printf "%s†" $mark }}{{ end -}}
+    {{- with $mark }}<sup title="{{ index $.page.Params.author_notes $.index }}">{{ . }}</sup>{{ end -}}
+  {{- end -}}
+{{- end -}}

@@ -11,6 +11,15 @@ authors:
   - Jae Do Yang
   - Hee Chul Yu
   - Heecheon You
+author_notes:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - 'Co-corresponding author'
+  - 'Co-corresponding author'
 date: '2025-01-16T00:00:00Z'
 publishDate: '2025-01-16T00:00:00Z'
 accepted: '2025-01-13'

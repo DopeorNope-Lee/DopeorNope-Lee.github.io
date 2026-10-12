@@ -45,7 +45,7 @@
             {{ $avatar = $avatar.Process "Fill 50x50 Center webp" }}
             <img src="{{ $avatar.RelPermalink }}" alt="{{ $author_page.Title }}" class="inline-block h-4 w-4 rounded-full border border-current" loading="lazy" />
             {{ end }}
-            <div {{if $author_page.Params.website}}class="group-hover:underline"{{end}}>{{ $author_page.Title }}</div>
+            <div {{if $author_page.Params.website}}class="group-hover:underline"{{end}}>{{ $author_page.Title }}{{ partial "author_mark" (dict "page" $ "index" $i) }}</div>
           </div>
           {{ with $author_page.Params.website }}
           </a>

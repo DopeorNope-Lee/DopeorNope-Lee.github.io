@@ -69,23 +69,4 @@ sections:
         - Samsung Electronics
     design:
       columns: '1'
-  - block: markdown
-    id: ta
-    content:
-      title: '🧑‍🏫 Teaching Assistant & Tutor'
-      subtitle: 'Handong Global University'
-      text: |-
-        **Teaching Assistant** · *Sep 2021 – Aug 2024*
-        - Linear Algebra (2023 Fall)
-        - Programming 01 (2021 Fall, 2023 Spring, 2023 Fall)
-        - Machine Learning for Entrepreneurship (2022 Spring)
-        - AI Convergence and Application (2022 Fall, 2023 Fall)
-        - Introduction to Software (2023 Winter)
-        - AI-based Computer Vision Application (2023 Spring)
-
-        **Tutor** · *Sep 2021 – Present*
-        - Financial Accounting (2021 Spring – 2022 Fall)
-        - Python Programming (2023 Spring)
-    design:
-      columns: '1'
 ---

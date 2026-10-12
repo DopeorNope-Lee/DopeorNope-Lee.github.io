@@ -8,6 +8,9 @@ authors:
   - Yunju Bak
   - Boseop Kim
   - Juho Lee
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 date: '2026-09-24T00:00:00Z'
 publishDate: '2026-09-24T00:00:00Z'
 accepted: '2026-09-24'

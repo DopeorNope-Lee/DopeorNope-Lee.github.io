@@ -52,6 +52,7 @@ sections:
     id: papers
     content:
       title: Selected Publications
+      text: '\* Equal contribution · † Co-corresponding author'
       archive:
         enable: true
         link: publication/
