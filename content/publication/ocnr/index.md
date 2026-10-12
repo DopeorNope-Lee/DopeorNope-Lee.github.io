@@ -18,6 +18,7 @@ doi: ''
 publication_types: ['paper-conference']
 publication: 'In *Proceedings of the 43rd International Conference on Machine Learning (ICML 2026)*, PMLR 306'
 publication_short: 'In *ICML 2026*'
+venue_abbr: 'ICML'
 
 abstract: ''
 summary: ''

@@ -20,6 +20,7 @@ doi: '10.1016/j.cpsurg.2025.101957'
 publication_types: ['article-journal']
 publication: '*Current Problems in Surgery, 75*, 101957 (2026)'
 publication_short: 'Current Problems in Surgery'
+venue_abbr: 'Curr. Probl. Surg.'
 
 abstract: ''
 summary: ''

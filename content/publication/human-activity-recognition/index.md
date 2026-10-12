@@ -17,6 +17,7 @@ doi: ''
 publication_types: ['paper-conference']
 publication: 'In *Korea Computer Congress 2023 (KCC 2023)*, KIISE, pp. 2052–2054'
 publication_short: 'In *KCC 2023*'
+venue_abbr: 'KCC'
 
 abstract: ''
 summary: ''

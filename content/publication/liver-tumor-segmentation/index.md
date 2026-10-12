@@ -29,6 +29,7 @@ doi: '10.3390/diagnostics16030429'
 publication_types: ['article-journal']
 publication: '*Diagnostics, 16*(3), 429'
 publication_short: 'Diagnostics'
+venue_abbr: 'Diagnostics'
 
 abstract: ''
 summary: ''

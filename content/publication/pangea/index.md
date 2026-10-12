@@ -20,6 +20,7 @@ doi: '10.52202/085713-0909'
 publication_types: ['paper-conference']
 publication: 'In *Advances in Neural Information Processing Systems 38 (NeurIPS 2025)*'
 publication_short: 'In *NeurIPS 2025*'
+venue_abbr: 'NeurIPS'
 
 abstract: ''
 summary: ''

@@ -7,7 +7,7 @@ sections:
     content:
       title: Publications
       count: 0
-      text: '\* Equal contribution · † Co-corresponding author'
+      text: '(\*) denotes equal contribution, (†) denotes co-corresponding authors.'
       filters:
         folders:
           - publication

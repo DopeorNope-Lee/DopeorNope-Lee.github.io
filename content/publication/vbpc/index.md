@@ -12,6 +12,7 @@ doi: ''
 publication_types: ['paper-conference']
 publication: 'In *The Thirteenth International Conference on Learning Representations (ICLR 2025)*'
 publication_short: 'In *ICLR 2025*'
+venue_abbr: 'ICLR'
 
 abstract: ''
 summary: ''

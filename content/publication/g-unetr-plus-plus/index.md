@@ -28,6 +28,7 @@ doi: '10.3390/app15020837'
 publication_types: ['article-journal']
 publication: '*Applied Sciences, 15*(2), 837'
 publication_short: 'Applied Sciences'
+venue_abbr: 'Appl. Sci.'
 
 abstract: ''
 summary: ''

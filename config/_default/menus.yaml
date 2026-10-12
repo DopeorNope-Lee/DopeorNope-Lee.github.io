@@ -14,3 +14,6 @@ main:
   - name: Teaching & Talks
     url: teaching/
     weight: 50
+  - name: CV
+    url: uploads/resume.pdf
+    weight: 60

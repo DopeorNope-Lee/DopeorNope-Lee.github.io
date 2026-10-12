@@ -1,0 +1,42 @@
+{{/* Minimal "about" hero (overrides Hugo Blox Biography 3). Styles: assets/css/custom.css */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+{{ $author := $block.content.username | default "admin" }}
+{{ $person_page := site.GetPage (printf "/authors/%s" $author) }}
+{{ if not $person_page }}{{ errorf "Could not find author page `/authors/%s`" $author }}{{ end }}
+{{ $person := $person_page.Params }}
+{{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
+
+<div class="about">
+  <div class="about-header">
+    <h1 class="about-name">{{ $person_page.Title }}</h1>
+    {{ with $block.content.tagline | default $person.role }}<p class="about-tagline">{{ . | markdownify }}</p>{{ end }}
+  </div>
+
+  <div class="about-body">
+    <div class="about-profile">
+      {{ with $avatar }}
+      {{ $img := .Fill "300x300 Center webp" }}
+      <img class="about-avatar" src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="{{ $person_page.Title }}">
+      {{ end }}
+      <ul class="about-icons">
+        {{ range $person.profiles }}
+        {{ $link := .url | default .link }}
+        {{ $scheme := (urls.Parse $link).Scheme }}
+        <li>
+          <a href="{{ $link | safeURL }}" {{ if in (slice "http" "https") $scheme }}target="_blank" rel="noopener"{{ end }} aria-label="{{ .label | default .icon }}" title="{{ .label | default .icon }}">
+            {{ partial "functions/get_icon" (dict "name" .icon "attributes" "style=\"height: 1.25rem;\"") }}
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+
+    <div class="about-text prose prose-slate dark:prose-invert">
+      {{ ($block.content.text | emojify | $page.RenderString) | default $person_page.Content }}
+      {{ with $block.content.button }}
+      <p><a class="about-cv" href="{{ .url | relURL }}" target="_blank" rel="noopener">{{ .text }}</a></p>
+      {{ end }}
+    </div>
+  </div>
+</div>

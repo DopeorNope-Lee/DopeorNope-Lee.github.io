@@ -16,6 +16,7 @@ doi: '10.3390/sym14122657'
 publication_types: ['article-journal']
 publication: '*Symmetry, 14*(12), 2657'
 publication_short: 'Symmetry'
+venue_abbr: 'Symmetry'
 
 abstract: ''
 summary: ''

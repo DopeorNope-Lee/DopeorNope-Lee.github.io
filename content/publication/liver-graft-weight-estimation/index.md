@@ -17,6 +17,7 @@ doi: '10.1038/s41598-023-45140-0'
 publication_types: ['article-journal']
 publication: '*Scientific Reports, 13*, 17746'
 publication_short: 'Scientific Reports'
+venue_abbr: 'Sci. Rep.'
 
 abstract: ''
 summary: ''

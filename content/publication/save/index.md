@@ -14,6 +14,7 @@ doi: ''
 publication_types: ['paper-conference']
 publication: 'In *The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026)*'
 publication_short: 'In *NeurIPS 2026*'
+venue_abbr: 'NeurIPS'
 
 abstract: ''
 summary: ''
