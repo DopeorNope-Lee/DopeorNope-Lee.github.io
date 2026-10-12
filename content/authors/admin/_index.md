@@ -155,6 +155,4 @@ awards:
 
 ## About Me
 
-I am a Ph.D. student in Artificial Intelligence at KAIST Kim Jaechul Graduate School of AI, advised by Professor [Juho Lee](https://juho-lee.github.io/) at the [SIML Lab](https://siml.kaist.ac.kr/), where I also completed my M.S. My research focuses on Large Language Models — in particular, training LLMs robustly in data-scarce domains, synthetic data generation, and efficient optimization. I have published at ICLR, ICML, and NeurIPS.
-
-Previously, I earned a B.S. in ICT Convergence and Business from Handong Global University, where I conducted research in medical and computer vision under Professor [Xiaopeng Yang](https://scholar.google.co.kr/citations?user=8w5uOesAAAAJ&hl=en) at the [AIMV Lab](https://aimv-handong.github.io/AIMV-Lab/). At Markr, I developed Korean LLMs that ranked #1 on both the Open LLM Leaderboard and the Open Ko-LLM Leaderboard.
+I am a Ph.D. student in AI at KAIST, advised by Prof. [Juho Lee](https://juho-lee.github.io/) at the [SIML Lab](https://siml.kaist.ac.kr/). I study Large Language Models — robust training in data-scarce domains, synthetic data generation, and efficient optimization — with work published at ICLR, ICML, and NeurIPS.
