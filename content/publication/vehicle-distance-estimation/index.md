@@ -19,8 +19,7 @@ publication_short: 'Symmetry'
 
 abstract: ''
 summary: ''
-tags:
-  - International Journal
+tags: []
 
 featured: false
 

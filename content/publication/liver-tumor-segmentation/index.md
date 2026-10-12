@@ -27,8 +27,7 @@ publication_short: 'Diagnostics'
 
 abstract: ''
 summary: ''
-tags:
-  - International Journal
+tags: []
 
 featured: false
 

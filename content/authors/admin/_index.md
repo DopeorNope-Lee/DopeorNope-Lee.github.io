@@ -62,58 +62,25 @@ education:
     date_end: 2026-08-31
     summary: |
       Research focus: Large Language Models. Advisor: Prof. [Juho Lee](https://juho-lee.github.io/), [SIML Lab](https://siml.kaist.ac.kr/).
-  - area: B.S. in ICT Convergence and Business
-    institution: Handong Global University
-    date_start: 2013-02-28
-    date_end: 2024-08-16
-    summary: |
-      Primary major: ICT Convergence, Secondary major: Business. GPA (Major) 4.37/4.5, GPA (Total) 4.24/4.5. Advisor: Prof. [Xiaopeng Yang](https://scholar.google.co.kr/citations?user=8w5uOesAAAAJ&hl=en).
 
 work:
   - position: Research Intern
     company_name: Kakao
+    date_start: 2026-03-01
     date_end: 2026-08-31
-    summary: |
-      Research internship (2026 – Aug 2026).
+    summary: ''
   - position: Partner Researcher
-    company_name: Markr.AI Research Team
-    company_url: 'http://markr.co.kr/'
-    date_start: 2024-08-01
-    date_end:
-    summary: |
-      - [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)
-      - Domain-specific LLMs in sparse domain data pools
-      - LLM fine-tuning engineering and quantization
-      - LLM guidance using Sequential Monte Carlo sampling
-      - Korean LLMs and synthetic data generation
-  - position: Researcher
-    company_name: Markr (with Media Group Human & Forest)
+    company_name: Markr.AI
     company_url: 'http://markr.co.kr/'
     date_start: 2022-09-01
-    date_end: 2024-08-31
+    date_end: 2026-05-31
     summary: |
-      **Robust & Korean LLM development**
       - #1 on the Open LLM Leaderboard (Jan 14, 2024) with [DopeorNope/SOLARC-MOE-10.7Bx6](https://huggingface.co/DopeorNope/SOLARC-MOE-10.7Bx6)
-      - #1 on the Open Ko-LLM Leaderboard (Nov 11, 2023) with [HumanF-MarkrAI/COKAL-DPO-13b-v2](https://huggingface.co/Markr-AI/COKAL-DPO-13b-v2)
-      - LoRA SFT + DPO training; MinHash / MinHash-LSH near-dedup data cleansing; Mixture-of-Experts for robustness
-      - [K-G-OAT](https://github.com/Marker-Inc-Korea/K-G-OAT): parameter-efficient IA3 fine-tuning
-
-      **NeRF** — D-NeRF for dynamic scenes, GUI prototype for 3D novel view synthesis, human 3D pose estimation
-
-      **Medical & computer vision** — liver, Couinaud and tumor segmentation; autonomous driving; human pose estimation
-  - position: Student Researcher (Head)
-    company_name: AI Medical Vision Lab, Handong Global University
-    company_url: 'https://aimv-handong.github.io/AIMV-Lab/'
-    date_start: 2022-03-01
-    date_end: 2024-03-31
-    summary: |
-      Advisor: Prof. Xiaopeng Yang. Vehicle distance estimation with a monocular camera; deep-learning liver segmentation; visual driver fatigue detection.
-  - position: Research Assistant
-    company_name: Korea Real Estate Agency Project, Handong Global University
-    date_start: 2021-08-01
-    date_end: 2024-03-31
-    summary: |
-      Advisor: Prof. Jung Eui Hong. Machine-learning analysis of local housing markets and risk prediction / detection of fraudulent real-estate subscriptions.
+      - #1 on the Open Ko-LLM Leaderboard (Nov 11, 2023) with [COKAL-DPO-13b-v2](https://huggingface.co/Markr-AI/COKAL-DPO-13b-v2) — NIA Director's Prize (Month's LLM)
+      - Korean and domain-specific LLMs: LoRA SFT + DPO, MinHash-LSH data deduplication, Mixture-of-Experts, synthetic data generation
+      - LLM fine-tuning engineering, quantization, and guidance with Sequential Monte Carlo sampling
+      - Open source: [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG), [K-G-OAT](https://github.com/Marker-Inc-Korea/K-G-OAT) (IA3 fine-tuning)
+      - Earlier work: dynamic NeRF and 3D novel view synthesis; liver, Couinaud and tumor segmentation
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

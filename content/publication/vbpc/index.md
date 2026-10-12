@@ -15,8 +15,7 @@ publication_short: 'In *ICLR 2025*'
 
 abstract: ''
 summary: ''
-tags:
-  - International Conference
+tags: []
 
 featured: true
 

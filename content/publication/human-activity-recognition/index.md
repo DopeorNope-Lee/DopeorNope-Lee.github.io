@@ -20,8 +20,7 @@ publication_short: 'In *KCC 2023*'
 
 abstract: ''
 summary: ''
-tags:
-  - Domestic
+tags: []
 
 featured: false
 

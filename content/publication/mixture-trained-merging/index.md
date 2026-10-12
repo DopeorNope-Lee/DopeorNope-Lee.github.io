@@ -19,8 +19,7 @@ publication_short: 'In *NeurIPS 2026*'
 
 abstract: ''
 summary: ''
-tags:
-  - International Conference
+tags: []
 
 featured: false
 

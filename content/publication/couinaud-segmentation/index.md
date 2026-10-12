@@ -23,8 +23,7 @@ publication_short: 'Current Problems in Surgery'
 
 abstract: ''
 summary: ''
-tags:
-  - International Journal
+tags: []
 
 featured: false
 

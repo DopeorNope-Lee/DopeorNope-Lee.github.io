@@ -22,8 +22,7 @@ publication_short: 'Applied Sciences'
 
 abstract: ''
 summary: ''
-tags:
-  - International Journal
+tags: []
 
 featured: false
 

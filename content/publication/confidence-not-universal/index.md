@@ -18,8 +18,7 @@ publication_short: 'In *ICML 2026*'
 
 abstract: ''
 summary: ''
-tags:
-  - International Conference
+tags: []
 
 featured: false
 

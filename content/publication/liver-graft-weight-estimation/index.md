@@ -20,8 +20,7 @@ publication_short: 'Scientific Reports'
 
 abstract: ''
 summary: ''
-tags:
-  - International Journal
+tags: []
 
 featured: false
 

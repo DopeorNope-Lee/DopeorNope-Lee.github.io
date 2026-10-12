@@ -10,7 +10,6 @@ Source for <https://dopeornope-lee.github.io/>, built with [Hugo](https://gohugo
 | Profile, education, work, awards, skills | `content/authors/admin/_index.md` |
 | Navigation menu | `config/_default/menus.yaml` |
 | Publications (one folder per paper) | `content/publication/<slug>/index.md` |
-| Projects | `content/project/<slug>/index.md` |
 | Teaching | `content/teaching/<slug>/index.md` |
 | CV PDF | `static/uploads/resume.pdf` |
 

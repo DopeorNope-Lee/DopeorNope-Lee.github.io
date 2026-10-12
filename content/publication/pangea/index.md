@@ -17,8 +17,7 @@ publication_short: 'In *NeurIPS 2025*'
 
 abstract: ''
 summary: ''
-tags:
-  - International Conference
+tags: []
 
 featured: true
 
