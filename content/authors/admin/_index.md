@@ -68,7 +68,9 @@ work:
     company_name: Kakao
     date_start: 2026-03-01
     date_end: 2026-08-31
-    summary: ''
+    summary: |
+      - Encoder-free multimodal models
+      - Domain-specific LLMs
   - position: Partner Researcher
     company_name: Markr.AI
     company_url: 'http://markr.co.kr/'
@@ -150,6 +152,6 @@ awards:
 
 Hi! I am a Ph.D. student at [KAIST AI](https://gsai.kaist.ac.kr/), advised by Prof. [Juho Lee](https://juho-lee.github.io/) at the [SIML Lab](https://siml.kaist.ac.kr/). I study **large language models**, with a particular interest in how they can learn from limited data and behave more reliably.
 
-Previously, I was a research intern at Kakao and a partner researcher at Markr.AI, working on Korean and domain-specific LLMs. Before that, I worked with Prof. Xiaopeng Yang (POSTECH) on deep learning for medical image analysis.
+Previously, I was a research intern at Kakao, working on encoder-free multimodal models and domain-specific LLMs, and a partner researcher at Markr.AI, working on Korean LLMs. Before that, I worked with Prof. Xiaopeng Yang (POSTECH) on deep learning for medical image analysis.
 
 **Contact:** punctuate [at] kaist [dot] ac [dot] kr
