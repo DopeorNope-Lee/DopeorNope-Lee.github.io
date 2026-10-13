@@ -120,3 +120,29 @@ body { font-family: var(--sans); -webkit-font-smoothing: antialiased; }
 #papers .space-y-3 > :not([hidden]) ~ :not([hidden]), .blox-collection .space-y-3 > .pub + .pub { margin-top: 0 !important; }
 .blox-collection .container { padding-left: 1rem; padding-right: 1rem; }
 #papers .container { padding-left: 0; padding-right: 0; }
+
+/* ---------- Hero background: soft color glow + faint dot grid, fading into the page ---------- */
+.blox-resume-biography-3 { overflow: hidden; isolation: isolate; }
+.blox-resume-biography-3::before, .blox-resume-biography-3::after { content: ''; position: absolute; inset: 0; z-index: -1; pointer-events: none; }
+.blox-resume-biography-3::before {
+  background:
+    radial-gradient(42rem 26rem at 18% -10%, rgb(var(--color-primary-200) / .55), transparent 70%),
+    radial-gradient(36rem 24rem at 88% 8%, rgb(186 230 253 / .5), transparent 70%);
+}
+.blox-resume-biography-3::after {
+  background-image: radial-gradient(rgb(var(--ink) / .09) 1px, transparent 1px);
+  background-size: 22px 22px;
+  -webkit-mask-image: linear-gradient(to bottom, #000 0%, rgba(0,0,0,.6) 45%, transparent 90%);
+          mask-image: linear-gradient(to bottom, #000 0%, rgba(0,0,0,.6) 45%, transparent 90%);
+}
+.blox-resume-biography-3 { -webkit-mask-image: none; }
+.blox-resume-biography-3::before {
+  -webkit-mask-image: linear-gradient(to bottom, #000 55%, transparent 100%);
+          mask-image: linear-gradient(to bottom, #000 55%, transparent 100%);
+}
+.dark .blox-resume-biography-3::before {
+  background:
+    radial-gradient(42rem 26rem at 18% -10%, rgb(var(--color-primary-700) / .28), transparent 70%),
+    radial-gradient(36rem 24rem at 88% 8%, rgb(56 189 248 / .14), transparent 70%);
+}
+.dark .blox-resume-biography-3::after { background-image: radial-gradient(rgb(255 255 255 / .07) 1px, transparent 1px); }
