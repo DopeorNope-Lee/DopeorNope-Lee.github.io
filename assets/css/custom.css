@@ -146,3 +146,6 @@ body { font-family: var(--sans); -webkit-font-smoothing: antialiased; }
     radial-gradient(36rem 24rem at 88% 8%, rgb(56 189 248 / .14), transparent 70%);
 }
 .dark .blox-resume-biography-3::after { background-image: radial-gradient(rgb(255 255 255 / .07) 1px, transparent 1px); }
+.about-text p { text-wrap: pretty; }
+.about-tagline { text-wrap: balance; }
+.about-text a { white-space: nowrap; }
