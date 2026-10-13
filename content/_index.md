@@ -13,7 +13,7 @@ sections:
   - block: resume-biography-3
     content:
       username: admin
-      tagline: 'Ph.D. Student @ KAIST AI · Large Language Models'
+      tagline: 'Ph.D. Student @ KAIST AI · Data-Centric LLMs & Multimodal Models'
       text: ""
       button:
         text: Download CV

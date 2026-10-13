@@ -45,9 +45,9 @@ profiles:
     url: https://orcid.org/0000-0002-3100-0332
 
 interests:
-  - Large Language Models
   - Synthetic Data Generation
-  - Multi-Modal Learning
+  - Data-Centric Understanding of LLMs
+  - Multimodal Models
 
 education:
   - area: Ph.D. in Artificial Intelligence
@@ -150,7 +150,7 @@ awards:
       I received the grand prize for optimization technology related to autonomous driving.
 ---
 
-Hi! I am a Ph.D. student at [KAIST AI](https://gsai.kaist.ac.kr/), advised by Prof. [Juho Lee](https://juho-lee.github.io/) at the [SIML Lab](https://siml.kaist.ac.kr/). I study **large language models**, with a particular interest in how they can learn from limited data and behave more reliably.
+Hi! I am a Ph.D. student at [KAIST AI](https://gsai.kaist.ac.kr/), advised by Prof. [Juho Lee](https://juho-lee.github.io/) at the [SIML Lab](https://siml.kaist.ac.kr/). I study **large language models and multimodal models from a data-centric perspective** — how to generate *synthetic data* that makes them better, and how to understand their behavior through the data they learn from.
 
 Previously, I was a research intern at Kakao, working on encoder-free multimodal models and domain-specific LLMs, and a partner researcher at Markr.AI, working on Korean LLMs. Before that, I worked with Prof. Xiaopeng Yang (POSTECH) on deep learning for medical image analysis.
 
