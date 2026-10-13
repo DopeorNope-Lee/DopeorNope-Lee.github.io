@@ -152,6 +152,6 @@ awards:
 
 Hi! I am a Ph.D. student at [KAIST AI](https://gsai.kaist.ac.kr/), advised by Prof. [Juho Lee](https://juho-lee.github.io/) at the [SIML Lab](https://siml.kaist.ac.kr/). I study LLMs and multimodal models from a **data-centric** perspective, with a focus on **synthetic data generation** and understanding model behavior through data.
 
-Previously, I interned at Kakao, working on encoder-free multimodal models and domain-specific LLMs, and was a partner researcher at Markr.AI. Before that, I worked with Prof. [Xiaopeng Yang](https://scholar.google.com/citations?user=8w5uOesAAAAJ) (POSTECH) on medical image analysis.
+Previously, I was a research intern at Kakao, working on encoder-free multimodal models and domain-specific LLMs, and a partner researcher at Markr.AI. Before that, I worked with Prof. [Xiaopeng Yang](https://scholar.google.com/citations?user=8w5uOesAAAAJ) (POSTECH) on medical image analysis.
 
 **Contact:** punctuate [at] kaist [dot] ac [dot] kr
