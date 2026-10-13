@@ -137,8 +137,8 @@ awards:
     awarder: National Information Society Agency
     icon: trophy
   - title: Healthcare AI Hackathon Competition Using Walking Data - Grand Prize
-    url: https://linc30.handong.edu/linc30/news/performance?print=true&page=1&idx=8&mode=view&page=1
-    date: '2022-07-01'
+    url: https://www.nocutnews.co.kr/news/5866740
+    date: '2022-12-19'
     awarder: LINC 3.0 Project Group
     icon: medal
   - title: Problem-Solving Idea Contest Using Software - Best Prize
